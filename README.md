@@ -1,10 +1,18 @@
 ## CIT 281 Lab 7
 
-### Purpose of the Project
-
+### Purpose of Lab 7
+* Create a GitHub organization and repository
+* Clone the repository
+* Create lab JavaScript file, and initialize folder as a Node.js folder
+* Practice error handling
+* Push your changes to GitHub
 ### Technologies used
-
+	GitHub
+	Terminal
+	Visual Studio Code
 ### What I learned
+	How to create a GitHub repository and update with changes made on my local system.
+
 
 Lab 7 GitHub Commit
 
